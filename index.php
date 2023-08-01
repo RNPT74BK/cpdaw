@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Hola mundo"; ?>
+    <?php echo "Hola mundo, esta es la aplicación CPDAW"; ?>
 </body>
 </html>
